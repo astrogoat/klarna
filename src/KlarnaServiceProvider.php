@@ -2,11 +2,11 @@
 
 namespace Astrogoat\Klarna;
 
+use Astrogoat\Klarna\Settings\KlarnaSettings;
 use Helix\Lego\Apps\App;
 use Helix\Lego\LegoManager;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Astrogoat\Klarna\Settings\KlarnaSettings;
 
 class KlarnaServiceProvider extends PackageServiceProvider
 {

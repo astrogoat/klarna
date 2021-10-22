@@ -2,9 +2,9 @@
 
 namespace Astrogoat\Klarna\Tests;
 
+use Astrogoat\Klarna\KlarnaServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Astrogoat\Klarna\KlarnaServiceProvider;
 
 class TestCase extends Orchestra
 {

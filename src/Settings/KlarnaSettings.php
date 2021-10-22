@@ -27,7 +27,7 @@ class KlarnaSettings extends AppSettings
     public function help(): array
     {
         return [
-            'threshold' => 'The dollar amount threshold for when a product is eligible for Klarna finacing.'
+            'threshold' => 'The dollar amount threshold for when a product is eligible for Klarna finacing.',
         ];
     }
 
