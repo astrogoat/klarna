@@ -1,6 +1,6 @@
 {
     "name": "astrogoat/klarna",
-    "description": "A Klarna app for Stratum",
+    "description": "A Klarna app for Strata",
     "keywords": [
         "astrogoat",
         "laravel",
@@ -23,7 +23,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "astrogoat/stratum": "dev-develop",
+        "astrogoat/strata": "dev-develop",
         "spatie/laravel-package-tools": "^1.4.3",
         "illuminate/contracts": "^8.37"
     },
